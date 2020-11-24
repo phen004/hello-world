@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi humans
+
+Phen here, a newbie I'm looking forward to do better
